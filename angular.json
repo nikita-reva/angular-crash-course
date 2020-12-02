@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-crash-course",
+            "outputPath": "docs/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-crash-course"
+    }
+  },
+  "defaultProject": "angular-crash-course",
+  "cli": {
+    "analytics": "13ca1408-66af-439a-9e9f-6291fdd78869"
+  }
 }
