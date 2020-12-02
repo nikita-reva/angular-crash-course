@@ -1,5 +1,13 @@
 # AngularCrashCourse
 
+## Exploring Angular.
+
+This project is based on a [tutorial](https://www.youtube.com/watch?v=Fdf5aTYRW0E) by Brad Traversy.
+
+## Demo:
+
+https://nikita-reva.github.io/angular-crash-course/.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
